@@ -9,3 +9,6 @@ Repo vom Projektmanagement-Spiel für alle Daten und Projektverwaltung
  
 ## Mailadresse vom TEAM 1:
 me@mxzinke.dev
+
+## Mailadresse vom TEAM 2:
+brian-brain@gmx.de
