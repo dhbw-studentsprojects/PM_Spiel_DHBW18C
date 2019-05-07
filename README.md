@@ -7,3 +7,5 @@ Repo vom Projektmanagement-Spiel für alle Daten und Projektverwaltung
 **Team 3:** Brian / Lucas  
 **Team 4:** Kevin / Marcus  
  
+## Mailadresse vom TEAM 1:
+me@mxzinke.dev
