@@ -11,6 +11,6 @@ Repo vom Projektmanagement-Spiel für alle Daten und Projektverwaltung
 **TEAM 1:** me@mxzinke.dev  
 **TEAM 2:** pamminger.roman@gmail.com  
 **TEAM 3:** brian-brain@gmx.de  
-**TEAM 4:** markus.limbacher@gmail.com  
+**TEAM 4:** markus.limbacher@gmail.com | kretsch93@web.de  
 
 ## Arbeitsanweisungen:
